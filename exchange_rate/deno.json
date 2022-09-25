@@ -1,0 +1,6 @@
+{
+    "tasks": {
+        "main": "deno run --allow-env --allow-read --allow-write --allow-net main.ts",
+        "get_latest_exchange_rates": "deno run --allow-env --allow-read --allow-net get_latest_exchange_rates.ts"
+    }
+}
