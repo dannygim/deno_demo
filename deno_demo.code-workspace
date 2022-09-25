@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "1. exchange rate",
+			"path": "exchange_rate"
+		}
+	],
+	"settings": {
+		"deno.enable": true,
+		"deno.unstable": true,
+		"editor.formatOnSave": true,
+		"editor.tabSize": 4
+	},
+	"extensions": {
+		"recommendations": [
+			"denoland.vscode-deno"
+		]
+	}
+}
