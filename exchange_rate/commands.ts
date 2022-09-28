@@ -53,5 +53,5 @@ export function commandConvert(amount: number, from: string, to: string) {
         }
     }
 
-    console.log(`${amount} ${from} to ${to} is ${amount * toRate / fromRate}`);
+    console.log(`${amount} ${from} is ${amount * toRate / fromRate} ${to}`);
 }
