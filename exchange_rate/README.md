@@ -15,5 +15,5 @@ deno task main list
 ## Converts an amount from a currency to another currency
 
 ```bash
-deno task main 100 USD to KRW
+deno task convert 100 USD to KRW
 ```
