@@ -3,6 +3,10 @@
 		{
 			"name": "1. exchange rate",
 			"path": "exchange_rate"
+		},
+		{
+			"name": "2. Node Compatibility",
+			"path": "node_compatibility"
 		}
 	],
 	"settings": {
