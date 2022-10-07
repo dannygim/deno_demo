@@ -5,7 +5,7 @@ import express from 'npm:express';
 if (import.meta.main) {
   const app = express();
 
-  app.get('/', (req, res) => {
+  app.get('/', (_req: express.Request, res: express.Response) => {
     res.send(`Hello World! ${uuidv4()}`);
   });
 
